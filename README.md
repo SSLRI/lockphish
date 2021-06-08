@@ -15,7 +15,7 @@ Lockphish it's the first tool (05/13/2020) for phishing attacks on the lock scre
 Usage of Lockphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. 
 
 ### INSTALLATION [Termux]ッ :
-```
+
 * `apt-get update -y`
 * `apt-get upgrade -y`
 * `pkg install git -y`
