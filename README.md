@@ -24,6 +24,7 @@ Usage of Lockphish for attacking targets without prior mutual consent is illegal
 * `bash lockphish.sh`
 ```
 
+
 ### CONNECT WITH US :
 
 <a href="https://github.com/sslri"><img title="Github" src="https://img.shields.io/badge/sslri-brightgreen?style=for-the-badge&logo=github"></a>
