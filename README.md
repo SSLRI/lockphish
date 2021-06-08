@@ -17,6 +17,7 @@ Usage of Lockphish for attacking targets without prior mutual consent is illegal
 ### INSTALLATION [Termux]ッ :
 * `apt-get update -y`
 * `apt-get upgrade -y`
+* `apt install wget -y`
 * `apt install php-apache -y`
 * `apt install nano`
 * `pkg install git -y`
