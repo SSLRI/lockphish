@@ -25,7 +25,7 @@ Usage of Lockphish for attacking targets without prior mutual consent is illegal
 ```
 
 
-### CONNECT WITH US :
+## CONNECT WITH US :
 
 <a href="https://github.com/sslri"><img title="Github" src="https://img.shields.io/badge/sslri-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/sslri)
